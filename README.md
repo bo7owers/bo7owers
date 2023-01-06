@@ -2,7 +2,7 @@
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" width="52%"  src="https://github-readme-stats.vercel.app/api?username=bo7owers&hide=contribs&show_icons=true&theme=nightowl"/>
+    <img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=bo7owers&hide=contribs&show_icons=true&theme=nightowl"/>
 </a>
 
 <a href="https://github.com/bo7owers/github-readme-stats">
