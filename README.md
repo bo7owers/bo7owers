@@ -1,12 +1,6 @@
 ### Hi there 👋
 
-<style>
-    .flex{
-        display: flex;
-    }
-</style>
-
-<div class="flex">
+<div class="flex" style="display: flex; gap: 1rem;">
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=bo7owers&hide=contribs&show_icons=true&theme=nightowl"/>
 </a>
