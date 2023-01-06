@@ -35,6 +35,8 @@ In 2023, I want to learn:
 </a>
 </div>
 
+<br>
+
 More of me:
 
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=flat&logo=Twitch&logoColor=white)](https://www.twitch.tv/bo7owers)
