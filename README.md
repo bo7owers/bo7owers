@@ -25,11 +25,6 @@ In 2023, I want to learn:
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 
-More of me:
-
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=flat&logo=Twitch&logoColor=white)](https://www.twitch.tv/bo7owers)
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=flat&logo=mastodon&logoColor=white)](https://indieweb.social/@bo7owers)
-
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=bo7owers&hide=contribs&show_icons=true&theme=nightowl"/>
@@ -39,6 +34,11 @@ More of me:
     <img align="right" width="47%" style="padding-left: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
 </a>
 </div>
+
+More of me:
+
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=flat&logo=Twitch&logoColor=white)](https://www.twitch.tv/bo7owers)
+[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=flat&logo=mastodon&logoColor=white)](https://indieweb.social/@bo7owers)
 
 <!--
 **bo7owers/bo7owers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
