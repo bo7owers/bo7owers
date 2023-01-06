@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello there, I am René
+
+I am a web developer who is passioned about bringing fun internet experiences to everyone `#a11y`.
+
+These are the technologies I use the most:
+![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=flat&logo=nuxtdotjs&logoColor=#00DC82)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
