@@ -33,9 +33,9 @@ In 2023, I want to learn:
 <a href="https://github.com/bo7owers/github-readme-stats">
     <img align="right" width="47%" style="padding-left: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
 </a>
-</div>
-
 <br>
+
+</div>
 
 More of me:
 
