@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bo7owers&hide=contribs&show_icons=true&theme=nightowl)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bo7owers&hide=contribs&show_icons=true&theme=nightowl) -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bo7owers&hide=contribs&show_icons=true&theme=nightowl"/>
+</a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/bo7owers/github-readme-stats)
 
 <!--
