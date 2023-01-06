@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-<div class="flex" style="display: flex; gap: 1rem;">
+<div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=bo7owers&hide=contribs&show_icons=true&theme=nightowl"/>
+    <img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=bo7owers&hide=contribs&show_icons=true&theme=nightowl"/>
 </a>
 
 <a href="https://github.com/bo7owers/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
+    <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
 </a>
 </div>
 
