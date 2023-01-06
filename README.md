@@ -1,10 +1,10 @@
+### Hi there 👋
+
 <style>
     .flex{
         display: flex;
     }
 </style>
-
-### Hi there 👋
 
 <div class="flex">
 <a href="https://github.com/anuraghazra/github-readme-stats">
