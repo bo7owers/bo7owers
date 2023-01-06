@@ -32,6 +32,7 @@ In 2023, I want to learn:
 <a href="https://github.com/bo7owers/github-readme-stats" style="margin-bottom: 0.25rem;">
     <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
 </a>
+&nbsp;
 
 More of me:\
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=flat&logo=Twitch&logoColor=white)](https://www.twitch.tv/bo7owers)
