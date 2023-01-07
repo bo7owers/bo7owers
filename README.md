@@ -28,9 +28,9 @@ More of me:\
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=flat&logo=mastodon&logoColor=white)](https://indieweb.social/@bo7owers)
 
 <a href="https://github.com/anuraghazra/github-readme-stats" style="margin-bottom: 0.25rem;">
-    <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=bo7owers&hide=contribs&show_icons=true&theme=nightowl"/>
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=bo7owers&hide=contribs&show_icons=true&theme=nightowl"/>
 </a>
 
 <a href="https://github.com/bo7owers/github-readme-stats" style="margin-bottom: 0.25rem;">
-    <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
 </a>
