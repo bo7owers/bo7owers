@@ -32,5 +32,5 @@ More of me:\
 </a>
 
 <a href="https://github.com/bo7owers/github-readme-stats" style="margin-bottom: 0.25rem;">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&ignore=glsl"/>
 </a>
