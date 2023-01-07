@@ -1,4 +1,4 @@
-### Hello there, I am René
+# Hello there, I am René
 
 I am a web developer who is passioned about bringing fun internet experiences to everyone `#a11y`.
 
